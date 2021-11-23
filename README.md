@@ -28,3 +28,11 @@ Objetivos Específicos:
 
 2.MARCO TEÓRICO (RESUMEN)
 
+![image](https://user-images.githubusercontent.com/94025287/143025962-9ecbbe86-a55f-4206-9bde-d967f60b14a8.png)
+
+3.EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
+
+•MATERIAL Y EQUIPO REQUERIDO
+
+![image](https://user-images.githubusercontent.com/94025287/143026145-64a0d8fa-e3e0-4e63-bc71-010299b2a0ae.png)
+
