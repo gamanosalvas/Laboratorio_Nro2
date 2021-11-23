@@ -55,7 +55,11 @@ Objetivos Específicos:
 
 Tabla 3.4 Resultados obtenidos para el circuito de la figura 2.1.
 
+![image](https://user-images.githubusercontent.com/94025287/143031204-6f1b7de0-d231-4c99-8361-3e704974bdf9.png)
+
+
 4.VIDEO
+
 
 5.CONCLUSIONES
 
