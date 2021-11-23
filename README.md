@@ -9,7 +9,7 @@ Integrantes: Allauca Steven, Lucero Danilo, Manosalvas Gabriel
 Parcial: 1
 
 Laboratorio Nro: 2
-
+-----------------------------------------------------------------------------------------------------------------------------------
 TEMA: Análisis de Mallas
 
 1.OBJETIVOS
