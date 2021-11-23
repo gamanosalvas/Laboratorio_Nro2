@@ -44,6 +44,11 @@ Objetivos Específicos:
 
 3.2 Medición de cada una de las corrientes de las malla.
 
+![image](https://user-images.githubusercontent.com/94025287/143030272-346d04d9-0cfc-41a1-bfec-455a54161133.png)
+
+![image](https://user-images.githubusercontent.com/94025287/143030593-3b3dbf8d-df28-4267-a8e3-f8c061e70b02.png)
+
+
 3.3 Uso del simulador Tinkercad para el circuito de la figura 2.1, obteniendo los valores de las corrientes de las mallas.
 
 ![image](https://user-images.githubusercontent.com/94025287/143026367-cbd30db6-6608-4abb-acad-9a0bd540f43b.png)
