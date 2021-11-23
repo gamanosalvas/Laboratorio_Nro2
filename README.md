@@ -20,11 +20,11 @@ Determinar mediante la ley de voltajes de Kirchhoff la corriente en un circuito 
 
 Objetivos Específicos:
 
-Calcular el valor de la corriente del circuito mediante el análisis de mallas.
+•Calcular el valor de la corriente del circuito mediante el análisis de mallas.
 
-Aplicar un sentido de corriente arbitrario (horario o antihorario) para todas las mallas.
+•Aplicar un sentido de corriente arbitrario (horario o antihorario) para todas las mallas.
 
-Comprender la importancia que tiene el análisis de mallas al analizar circuitos electrónicos para realizar cálculos de una manera más fácil y organizada.
+•Comprender la importancia que tiene el análisis de mallas al analizar circuitos electrónicos para realizar cálculos de una manera más fácil y organizada.
 
 2.MARCO TEÓRICO (RESUMEN)
 
