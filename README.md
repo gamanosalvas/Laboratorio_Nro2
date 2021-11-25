@@ -66,7 +66,7 @@ https://www.youtube.com/watch?v=HbUxK0uwBiE&feature=youtu.be&ab_channel=Christia
 
 •En esta práctica de laboratorio se calculó el valor de la corriente del circuito mediante LVK. A la hora de realizar los respectivos cálculos en la práctica de laboratorio se evidencio que con el análisis de mallas se puede ir calculando el circuito en varias partes y lograr resolverlo de una manera más fácil.
 
-•Se aplicó un sentido horaio de corriente para todas las mallas por conveniencia, pero indistintamente del sentido se obtiene los mismos valores.
+•Se aplicó un sentido horario de corriente para todas las mallas por conveniencia, pero indistintamente del sentido se obtiene los mismos valores.
 
 6.BIBLIOGRAFÍA
 
