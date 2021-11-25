@@ -60,6 +60,7 @@ Tabla 3.4 Resultados obtenidos para el circuito de la figura 2.1.
 
 4.VIDEO
 
+https://www.youtube.com/watch?v=HbUxK0uwBiE&feature=youtu.be&ab_channel=ChristianLucero
 
 5.CONCLUSIONES
 
